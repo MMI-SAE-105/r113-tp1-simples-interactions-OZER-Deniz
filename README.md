@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : ozer
+- prénom : deniz
+- URL Netlify : https://quiet-caramel-282fde.netlify.app
 
 # Travail
 
